@@ -1,0 +1,7 @@
+{
+  "name": "Phil's Devtools",
+  "version": "1.0.0",
+  "description": "Phil's Chrome Devtools Customization",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
